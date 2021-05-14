@@ -1,0 +1,74 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "229.99",
+      "familyShareable" : false,
+      "internalID" : "311BF7F6",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "year",
+      "referenceName" : "Year",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.49",
+      "familyShareable" : false,
+      "internalID" : "C489F937",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "weekly",
+      "referenceName" : "Weakly",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "27.99",
+      "familyShareable" : false,
+      "internalID" : "334AA5EA",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "month",
+      "referenceName" : "Month",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "649.99",
+      "familyShareable" : false,
+      "internalID" : "29F73CFA",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "permanentPurchase",
+      "referenceName" : "Permanent Purchase",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
